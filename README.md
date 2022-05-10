@@ -1,1 +1,1 @@
-# CSGO-config
+/dev/null
